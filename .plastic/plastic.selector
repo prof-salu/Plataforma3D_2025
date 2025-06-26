@@ -1,0 +1,3 @@
+repository "Plataforma3D@profsalu@cloud"
+  path "/"
+    smartbranch "/main/Menu de pause/Animações de ataque"
